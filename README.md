@@ -1,3 +1,3 @@
-# Reinforcement-Learning-for-Blackjack
+# Reinforcement-Learning
 
-Using Q-Learning, the code above provides a method for teaching the computer how to play and WIN in the game of Blackjack.
+This repository consists of many reinforcement learning projects (with both environments from the OpenAI gym and custom environments). In order to achieve/complete tasks, we use both regular Q-Learning and Deep Q-Learning with neural nets (DQNs). 
